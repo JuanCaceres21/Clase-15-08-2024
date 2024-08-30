@@ -87,6 +87,6 @@ basicamente podemos decir que el sistema no tiene la capacidad de mostrar de man
 
 💡Ejemplo 2: 
 
-![circuito de resistencias ponderadas](lab 1 C.D./scope_2.png)
-![circuito de resistencias ponderadas](imagenes/imagen1.png)
+
+![circuito de resistencias ponderadas](lab_1_C.D/scope_2.png)
 
