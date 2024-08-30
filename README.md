@@ -5,7 +5,7 @@ Para esta clase tenemos los distintos metodos de discretizacion, la discretizaci
 ## Invarianza al pulso
 En este metodo, basicamente debemos encontrar la transformada Z de la anti transformada de laplace de un sistema:
 
-$$(𝐶)𝑧 =𝑇𝑍{(ℒ)^(-1){𝐶(𝑠)}𝑡=𝐾𝑇}$$
+$$(𝐶)𝑧 =𝑇𝑍{(ℒ)^-^1{𝐶(𝑠)}𝑡=𝐾𝑇}$$
 
 El termino T se debe multiplicar por toda la funcion, esto para tener en cuenta el tiempo de muestreo.
 
