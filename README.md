@@ -87,5 +87,6 @@ basicamente podemos decir que el sistema no tiene la capacidad de mostrar de man
 
 💡Ejemplo 2: 
 
-![Señal seno discretizada](lab1 C.D.\scope_2.jpg)
+![circuito de resistencias ponderadas](lab 1 C.D./scope_2.png)
+![circuito de resistencias ponderadas](imagenes/imagen1.png)
 
