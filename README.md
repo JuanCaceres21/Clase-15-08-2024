@@ -85,4 +85,7 @@ Este teorema nos presenta el problema que relaciona la frecuencia de muestreo y 
 
 basicamente podemos decir que el sistema no tiene la capacidad de mostrar de manera fiel la señal que trata de recrear.
 
+💡Ejemplo 2: 
+
+![Señal seno discretizada](lab1 C.D.\scope_2.PNG)
 
