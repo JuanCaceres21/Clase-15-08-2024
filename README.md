@@ -49,7 +49,9 @@ Podemos decir que:
 
 $$s≈\frac{z-1}{T}$$
 
-## Como se comento en el metodo anterior, este metodo es igual al de adelanto pero hacia atra, es decir tomamos la pendiente con referencia al dato actual y al anterior.
+## Metodo euler hacia atras
+
+Como se comento en el metodo anterior, este metodo es igual al de adelanto pero hacia atra, es decir tomamos la pendiente con referencia al dato actual y al anterior.
 
 $$\frac{d}{dkT}(kT)=\frac{x(k)-x(k-1)}{T}$$
 
@@ -62,3 +64,15 @@ $$Z[\frac{x(k)-x(k-1)}{T}]=\frac{1-z^{-1}}{T}X(Z) $$
 Podemos decir que:
 
 $$s≈\frac{z-1}{Tz}$$
+
+## Método trapezoidal “Tustin”
+
+En este metodo adiferencia de los dos anteriores no solo trazamos una linea recta, sino que se intenta dibujar una figura geometrica, un trapecio, cuya parte superior intenta emular los valores de una señal.
+
+version de Laplace:
+
+$$s=\frac{2/T(z-1)}{z+1} $$
+
+version de Z:
+
+$$s=\frac{1+\frac{Ts}{2}}{1-\frac{Ts}{2}} $$
