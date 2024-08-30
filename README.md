@@ -30,3 +30,10 @@ $$ u(k)=u(t) $$
 $${Z}^{-1}[C(s)\frac{Z}{(Z-1)}]=ℒ^{-1}[C(s)\frac{1}{S}]$$
 
 $$Z[{ℒ^{-1}[C(s)\frac{1}{S}]}]=\frac{Z}{Z-1}$$
+
+Podriamos decir que este metodo es igual al anterior solo que multiplicando el resultado final por la funcion paso discreta para ver su respuesta a la misma.
+
+## Metodo euler hacia adelante
+
+haciendo uso de las derivadas, las cuales son el calculo de una pendiente en un punto especifico, podemos hacer una recreacion de una señal continua, la fdiferencia que tenemos con el metodo que veremos mas adelante es que hacemos la pendiente con el dato siguiente y no el anterior.
+
