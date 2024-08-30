@@ -10,5 +10,7 @@ $$(𝐶)𝑧 =𝑇𝑍{(ℒ)^-1{𝐶(𝑠)}𝑡=𝐾𝑇}$$
 El termino T se debe multiplicar por toda la funcion, esto para tener en cuenta el tiempo de muestreo.
 
 💡Ejemplo 1: 
+
 $$C(s)=\frac{4}{(s+1)}+\frac{5}{(s+10)}$$
+
 $$ℒ^-1{C(s)}=3e^-t+\frac{5}{(s+10)}$$
