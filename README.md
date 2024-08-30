@@ -37,4 +37,4 @@ Podriamos decir que este metodo es igual al anterior solo que multiplicando el r
 
 haciendo uso de las derivadas, las cuales son el calculo de una pendiente en un punto especifico, podemos hacer una recreacion de una señal continua, la fdiferencia que tenemos con el metodo que veremos mas adelante es que hacemos la pendiente con el dato siguiente y no el anterior.
 
-$$\(frac{d}{dkT})(kT)=\frac{x(k)-x(k-1)}{T}   $$
+$$\frac{d}{dkT}*kT=\frac{x(k)-x(k-1)}{T}   $$
