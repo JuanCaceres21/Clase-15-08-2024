@@ -25,6 +25,6 @@ $$C(z)=T [\frac{3Z}{(Z-{e}^{-T})}+\frac{5Z}{(Z-{e}^{-10T})}]$$
 
 Este metodo que es bastante similar al anterior, debemos hacer exactamente lo mismo, pero añadiendo la funcion de paso unitario.
 
-$$ u(k)=u(t) &&
+$$ u(k)=u(t) $$
 
-$${(Z)}^{-1}[C(s)\frac{Z}{(Z-1)}]=ℒ^{-1}[C(s)\frac{1}{S}]$$
+$${Z}^{-1}[C(s)\frac{Z}{(Z-1)}]=ℒ^{-1}[C(s)\frac{1}{S}]$$
