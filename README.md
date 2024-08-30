@@ -71,7 +71,7 @@ En este metodo adiferencia de los dos anteriores no solo trazamos una linea rect
 
 version de Laplace:
 
-$$s=\frac{2/T(z-1)}{z+1} $$
+$$s=\frac{\frac{2}{T}(z-1)}{z+1} $$
 
 version de Z:
 
