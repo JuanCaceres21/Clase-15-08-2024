@@ -13,4 +13,4 @@ El termino T se debe multiplicar por toda la funcion, esto para tener en cuenta 
 
 $$C(s)=\frac{4}{(s+1)}+\frac{5}{(s+10)}$$
 
-$$ℒ^-1(C(s))=3e^-t+5e^-10t$$
+$$ℒ^-1(C(s))=(3e)^{-t}+5e^-10t$$
