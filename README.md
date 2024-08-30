@@ -87,5 +87,5 @@ basicamente podemos decir que el sistema no tiene la capacidad de mostrar de man
 
 💡Ejemplo 2: 
 
-![Señal seno discretizada](lab1 C.D.\scope_2.PNG)
+![Señal seno discretizada](lab1 C.D.\scope_2.jpg)
 
