@@ -43,8 +43,8 @@ $$ℒ[\\frac{d}{dkT}x(t)=sX(s)]$$
 
 Para la transformada Z
 
-$$Z[\frac{x(k)-x(k-1)}{T}]=\frac{1-Z^{-1}}{T}X(Z) $$
+$$Z[\frac{x(k+1)-x(k)}{T}]=\frac{Z-1}{T}X(Z) $$
 
 Podemos decir que:
 
-$$s≈\frac{1-Z^{-1}}{T}$$
+$$s≈\frac{z-1}{T}$$
