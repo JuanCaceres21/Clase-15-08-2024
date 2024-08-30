@@ -83,10 +83,18 @@ $$s=\frac{1+\frac{Ts}{2}}{1-\frac{Ts}{2}} $$
 
 Este teorema nos presenta el problema que relaciona la frecuencia de muestreo y la frecuencia de la señal que se quiere generar, este problema se presenta cuando la frecuancia de muestreo es mas baja que el doble de la frecuencia de  la señal deseada.
 
-basicamente podemos decir que el sistema no tiene la capacidad de mostrar de manera fiel la señal que trata de recrear.
+basicamente podemos decir que el sistema no tiene la capacidad de mostrar de manera fiel la señal que trata de recrear, la incapadcidad de lograr esto se le llama aliasing.
 
 💡Ejemplo 2: 
 
 
 ![Señal seno discretizada](/lab1C.D/scope_2.png)
+
+En este caso, la frecuencia de muestreo es de 100Hz y la de la señal es de 3Hz, por lo que no sufrimos de aliasing.
+
+💡Ejemplo 2: 
+
+![Señal seno discretizada](/lab1C.D/scope_5.png)
+
+En esta señal, con la reduccion dela frecuencia de muestreo vemos como la señal va perdiendo calidad y se hace mas inestable
 
