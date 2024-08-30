@@ -27,4 +27,4 @@ Este metodo que es bastante similar al anterior, debemos hacer exactamente lo mi
 
 $$u(k)=u(t)&&
 
-$${(Z)}^{-1}[C(s)\frac{Z}{(Z-1)}]=ℒ^{-1}[C(s)/frac{1}{S}]$$
+$${(Z)}^{-1}[C(s)\frac{Z}{(Z-1)}]=ℒ^{-1}[C(s)\frac{1}{S}]$$
