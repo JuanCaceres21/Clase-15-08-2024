@@ -108,7 +108,9 @@ Solucion:
 
 Sabiendo que:
 
-$$e^{-at}=\frac{z}{z-e^{-aT}}$$
+$$Z[e^{-at}]=\frac{z}{z-e^{-aT}}$$
 
-$$sin(bt)=\frac{zsin(bT)}{z^2-2zcos(bT)+1} $$
+$$Z[sin(bt)]=\frac{zsin(bT)}{z^2-2zcos(bT)+1}$$
+
+$$Z[cos(bt)]=\frac{z^2-zsin(bT)}{z^2-2zcos(bT)+1} $$
 
