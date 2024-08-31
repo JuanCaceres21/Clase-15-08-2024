@@ -100,7 +100,7 @@ En esta señal, con la reduccion dela frecuencia de muestreo vemos como la seña
 
 # Ejercicios📚
 
-Exprese la siguiente funcion continua en tiempo discreto:
+1) Exprese la siguiente funcion continua en tiempo discreto:
 
 $$f(t)=e^{-0.2t}sen(3t)+cos(3t)$$
 
@@ -121,5 +121,29 @@ $$F(z)=\frac{z}{z-e^{-0.2T}}*\frac{zsin(3T)}{z^2-2zcos(3T)+1}+\frac{z^2-zsin(3T)
 $$F(z)=\frac{z}{z-e^{-0.2T}}*\frac{zsin(3T)}{z^2-2zcos(3T)+1}+\frac{z^2-zsin(3T)}{z^2-2zcos(3T)+1}$$
 
 $$F(z)=\frac{z}{z-e^{-0.1}}*\frac{zsin(1.5)}{z^2-2zcos(1.5)+1}+\frac{z^2-zsin(1.5)}{z^2-2zcos(1.5)+1}$$
+
+$$F(z)=\frac{0.99z^2}{z^3-1.04z^2+1.126z-0.90}+\frac{z^2-0.99z}{z^2-0.14z+1}$$
+
+2) Exprese la siguiente funcion continua en tiempo discreto usando el metodo de invarianza a el paso
+
+$$f(t)=e^{-0.2t}sen(3t)+cos(3t)$$
+
+$$T=0.5s$$
+
+Sabiendo que:
+
+$$Z[e^{-at}]=\frac{z}{z-e^{-aT}}$$
+
+$$Z[sin(bt)]=\frac{zsin(bT)}{z^2-2zcos(bT)+1}$$
+
+$$Z[cos(bt)]=\frac{z^2-zsin(bT)}{z^2-2zcos(bT)+1}$$
+
+Solución:
+
+$$Z{ℒ^{-1}[\frac{C(s)}{s}]]=\frac{z}{z-e^{-0.2T}}*\frac{zsin(3T)}{z^2-2zcos(3T)+1}+\frac{z^2-zsin(3T)}{z^2-2zcos(3T)+1}$$
+
+$$Z{ℒ^{-1}[\frac{C(s)}{s}]]=\frac{z}{z-e^{-0.2T}}*\frac{zsin(3T)}{z^2-2zcos(3T)+1}+\frac{z^2-zsin(3T)}{z^2-2zcos(3T)+1}$$
+
+$$C(z)=\frac{z-1}{z}[\frac{z}{z-e^{-0.1}}*\frac{zsin(1.5)}{z^2-2zcos(1.5)+1}+\frac{z^2-zsin(1.5)}{z^2-2zcos(1.5)+1}]$$
 
 $$F(z)=\frac{0.99z^2}{z^3-1.04z^2+1.126z-0.90}+\frac{z^2-0.99z}{z^2-0.14z+1}$$
