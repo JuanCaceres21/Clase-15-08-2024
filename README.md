@@ -102,5 +102,11 @@ En esta señal, con la reduccion dela frecuencia de muestreo vemos como la seña
 
 Exprese la siguiente funcion continua en tiempo discreto:
 
-$$f(t)=e^{-0.2t}sen(3t)+cos(3t) $$
+$$f(t)=e^{-0.2t}sen(3t)+cos(3t)$$
+
+Solucion:
+
+Sabiendo que:
+
+$$e^{at}=\frac{z}{z-e^{aT}}$$
 
