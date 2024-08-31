@@ -104,7 +104,7 @@ Exprese la siguiente funcion continua en tiempo discreto:
 
 $$f(t)=e^{-0.2t}sen(3t)+cos(3t)$$
 
-Solucion:
+$$T=0.5s$$
 
 Sabiendo que:
 
@@ -112,5 +112,10 @@ $$Z[e^{-at}]=\frac{z}{z-e^{-aT}}$$
 
 $$Z[sin(bt)]=\frac{zsin(bT)}{z^2-2zcos(bT)+1}$$
 
-$$Z[cos(bt)]=\frac{z^2-zsin(bT)}{z^2-2zcos(bT)+1} $$
+$$Z[cos(bt)]=\frac{z^2-zsin(bT)}{z^2-2zcos(bT)+1}$$
+
+Solución:
+
+$$\frac{z}{z-e^{-aT}}$$*\frac{zsin(bT)}{z^2-2zcos(bT)+1}+\frac{z^2-zsin(bT)}{z^2-2zcos(bT)+1}$$
+
 
