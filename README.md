@@ -116,6 +116,9 @@ $$Z[cos(bt)]=\frac{z^2-zsin(bT)}{z^2-2zcos(bT)+1}$$
 
 Solución:
 
-$$\frac{z}{z-e^{-aT}}$$*\frac{zsin(bT)}{z^2-2zcos(bT)+1}+\frac{z^2-zsin(bT)}{z^2-2zcos(bT)+1}$$
+$$F(z)=\frac{z}{z-e^{-0.2T}}*\frac{zsin(3T)}{z^2-2zcos(3T)+1}+\frac{z^2-zsin(3T)}{z^2-2zcos(3T)+1}$$
 
+$$F(z)=\frac{z}{z-e^{-0.2T}}*\frac{zsin(3T)}{z^2-2zcos(3T)+1}+\frac{z^2-zsin(3T)}{z^2-2zcos(3T)+1}$$
+
+$$F(z)=\frac{z}{z-e^{-0.1}}*\frac{zsin(1.5)}{z^2-2zcos(1.5)+1}+\frac{z^2-zsin(1.5)}{z^2-2zcos(1.5)+1}$$
 
