@@ -108,5 +108,7 @@ Solucion:
 
 Sabiendo que:
 
-$$e^{at}=\frac{z}{z-e^{aT}}$$
+$$e^{-at}=\frac{z}{z-e^{-aT}}$$
+
+$$sin(bt)=\frac{zsin(bT)}{z^2-2zcos(bT)+1} $$
 
