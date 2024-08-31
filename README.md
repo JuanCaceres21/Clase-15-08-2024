@@ -140,9 +140,9 @@ $$Z[cos(bt)]=\frac{z^2-zsin(bT)}{z^2-2zcos(bT)+1}$$
 
 Solución:
 
-$$Z[{ℒ^{-1}[\frac{C(s)}{s}]]=\frac{z}{z-e^{-0.2T}}*\frac{zsin(3T)}{z^2-2zcos(3T)+1}+\frac{z^2-zsin(3T)}{z^2-2zcos(3T)+1}$$
+$$Z{ℒ^{-1}[\frac{C(s)}{s}]=\frac{z}{z-e^{-0.2T}}*\frac{zsin(3T)}{z^2-2zcos(3T)+1}+\frac{z^2-zsin(3T)}{z^2-2zcos(3T)+1}$$
 
-$$Z[{ℒ^{-1}[\frac{C(s)}{s}]]=\frac{z}{z-e^{-0.2T}}*\frac{zsin(3T)}{z^2-2zcos(3T)+1}+\frac{z^2-zsin(3T)}{z^2-2zcos(3T)+1}$$
+$$Z{ℒ^{-1}[\frac{C(s)}{s}]=\frac{z}{z-e^{-0.2T}}*\frac{zsin(3T)}{z^2-2zcos(3T)+1}+\frac{z^2-zsin(3T)}{z^2-2zcos(3T)+1}$$
 
 $$C(z)=\frac{z-1}{z}[\frac{z}{z-e^{-0.1}}*\frac{zsin(1.5)}{z^2-2zcos(1.5)+1}+\frac{z^2-zsin(1.5)}{z^2-2zcos(1.5)+1}]$$
 
