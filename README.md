@@ -98,3 +98,9 @@ En este caso, la frecuencia de muestreo es de 100Hz y la de la señal es de 3Hz,
 
 En esta señal, con la reduccion dela frecuencia de muestreo vemos como la señal va perdiendo calidad y se hace mas inestable
 
+# Ejercicios📚
+
+Exprese la siguiente funcion continua en tiempo discreto:
+
+$$f(t)=e^{-0.2t}sen(3t)+cos(3t) $$
+
