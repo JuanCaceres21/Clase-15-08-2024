@@ -150,6 +150,13 @@ $$C(z)=\frac{z-1}{z}[\frac{0.99z^2}{z^3-1.04z^2+1.126z-0.90}+\frac{z^2-0.99z}{z^
 
 $$C(z)=\frac{0.99z^3-0.99z^2}{z^4-1.04z^3+1.126z^2-0.90z}+\frac{z^3-1.99z^2+0.99z}{z^3-0.14z^2+1}$$
 
+## Conclusiones
+
+Existen varios métodos para discretizar un sistema, pero cada uno puede ser mejor o peor para cierto caso
+
+El tiempo de muestro es un factor esencial a la hora de ejecutar la función discretizada de una función o sistema
+
+
 ## Referencias
 
 Cote B, J. E. (2024). Discretización de controladores digitales. En J. E. Cote B, Control Digital. Universidad ECCI.
